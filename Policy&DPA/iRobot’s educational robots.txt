@@ -1,0 +1,131 @@
+iRobot's Root® Coding Robots, Create® 3 Educational Robot, and iRobot Coding Companion App do not collect, store, or process personal information from any person, including individuals under the age of 13. “Personal Information” is defined as information that identifies or relates to an identifiable individual.
+
+Non-Personal Information
+iRobot may analyze information from the Root® Coding Robots, the Create® 3 Educational Robot, and iRobot Coding Companion App that does not contain Personal Information for trends and statistics, such as through the use of Google Analytics or other similar analytics services (“Non-Personal Information”).
+
+If any Non-Personal Information is used for behavioral or product improvements, the data is aggregated and anonymous, and cannot be identified to, or associated with, any particular individual.
+
+Below is a table representing the Non-Personal Information passively collected from the Root® Coding Robots, Create® 3 Educational Robot, and iRobot Coding Companion App:
+
+DATA
+
+TRANSFERRED TO OR SHARED WITH (including all third parties)
+
+PURPOSE OF TRANSFER OR SHARE
+
+ENCRYPTED (Y/N)
+
+ANALYTICS: DEVICE INFO (CATEGORY, BRAND, MODEL)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: OPERATING SYSTEM INFO (TYPE, VERSION)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: DEVICE SETTINGS (LANGUAGE, BROWSER VERSION)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: ANONYMIZED DEVICE IDENTIFIERS
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+CRASH REPORTING: CRASH LOG INFORMATION
+
+Google Cloud Platform, Google Crashlytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: GEOLOCATION DATA (BASED ON IP, NOT PRECISE – CITY/REGION LEVEL)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: USER EVENTS (PLAY/STOP PROGRAM, UPLOAD/ DOWNLOAD PROJECTS, CONNECT ROBOT, OPEN CONTENT)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: TIME USING APP
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+ANALYTICS: WEB URL (PAGE LOCATION, PAGE REFERRER)
+
+Google Cloud Platform, Google Analytics
+
+To monitor usage, provide the experience and improve performance.
+
+Yes
+
+iRobot does not sell, trade, lease or loan any information collected or maintained by your use of a Root® Coding Robot, Create® 3 Educational Robot, or iRobot Coding Companion App to any third party for any reason, including direct marketers, advertisers, or data brokers. iRobot contracts with service providers to perform business functions or services on iRobot’s behalf and may share Non-Personal Information or aggregated data with such service providers as required to perform their functions. iRobot's Root® Coding Robots, Create® 3 Educational Robot, and iRobot Coding Companion App utilize the following service providers:
+
+Provider Name
+
+How iRobot Uses the Provider
+
+What user information is shared or collected by this partner and/or passed back to us from the partner?
+
+Amazon Web Services (AWS)
+
+iRobot uses Amazon Web Services to host files for the iRobot Coding Web App (S3 bucket).
+
+No user information is collected or shared.
+
+Google Cloud Platform and Google Firebase
+
+Google Cloud Platform and Google Firebase provides iRobot with analytics, databases, cloud services, hosting infrastructure, and enhanced mobile App development tools.
+
+All uploaded project data (not local project data), app analytucs (IP addresses, device information, user-triggered events), crash reports, and all logs are stored on Google Cloud Platform. All data is encrypted in transit and at rest.
+
+Google Analytics
+
+Google Analytics provides usage analytics for our Website and App.
+
+Website and app usage, device information (manufacturer, OS version), and IP addresses. Data is encrypted in transit and IP anonymization is requested. No user-generated data is shared.
+
+Fortrabbit
+
+iRobot uses Fortrabbit to host the Craft CMS, associated databases and network infrastructure.
+
+iRobot-assigned school ID codes for unlocking premium educator content are stored. No user-generated data is shared.
+
+Security
+iRobot has a comprehensive Security Program in place designed to protect the confidentiality, integrity, and availability of systems, networks and data. The following is a general overview of data security protocols:
+
+Data in Transit: Root® Coding Robots, Create® 3 Educational Robots and the iRobot Coding Companion App communicate with the iRobot cloud service using robust encryption. Currently, iRobot uses AES 256-bit encryption and Transport Layer Security (TLS v1.2).
+
+Data at Rest: Within iRobot’s cloud (built on top of Google and AWS), customer data is stored encrypted. Within the iRobot Coding Companion App, data storage follows the platform’s standards for application-secure data.
+
+Data Center Security: iRobot takes a defense-in-depth approach to security, adding multiple layers of protection around our robots, cloud and apps from start to finish. The development of iRobot products follows industry-standard security best practices, and iRobot uses technology-leading tools to assist development and security teams during this process. When deployed to market, iRobot works with suppliers and partners to ensure that supporting infrastructure (including physical infrastructure, cloud, and mobile apps) are properly configured and monitored, and continuous security improvement processes are in place. All the data collected from your iRobot products per this Privacy Policy is handled with care and high levels of security. Data is encrypted both in transit and at rest. Data access is controlled strictly and limited only to authorized personnel to do their job and help improve your product experiences.
+
+iRobot reserves the right to modify this policy at any time. Updates may be found at this URL and as communicated from time to time.

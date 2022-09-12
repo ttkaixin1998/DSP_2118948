@@ -1,0 +1,461 @@
+iRobot Corporation
+Last Updated: 23 May 2022
+
+iRobot Corporation (“iRobot”, “we” or “us”) is committed to protecting your privacy. This Privacy Policy explains how information about you or associated with you (“personal information” or "personal data") is collected, used and disclosed by iRobot.
+
+This Privacy Policy applies to our websites, including www.iRobot.com and all related pages and subdomains (collectively, the “Website”), as well as to consumer devices (“Robots”) you register, to iRobot’s mobile applications (“iRobot App” singular, “Apps ” plural) which provide support for those Robots (collectively, our “Service”), and to your non-public interactions with iRobot (e.g. via opening a support ticket).
+
+iRobot’s educational robots operate under a separate privacy policy, found here: https://edu.irobot.com/privacy-policy
+
+Aeris Air Purifiers operate under a separate privacy policy, found here: https://aeris.irobot.com/privacy-policy
+
+For the purposes of applicable data protection laws, iRobot Corporation is the controller of personal information we hold about you.
+
+Click on the links below to navigate to each section.  
+
+1. HOW WE COLLECT AND USE INFORMATION
+2. SHARING PERSONAL INFORMATION WITH THIRD PARTIES
+3. YOUR CHOICES REGARDING YOUR INFORMATION 
+4. LINKS TO THIRD PARTY WEBSITES
+5. SECURITY AND STORAGE OF INFORMATION
+6. CHILDREN’S PRIVACY
+7. UPDATES TO THIS POLICY
+8. CONTACTING US
+FOR RESIDENTS OF CALIFORNIA
+FOR INDIVIDUALS IN THE EUROPEAN ECONOMIC AREA
+TABLE 1 - PERSONAL INFORMATION WE MAY COLLECT FROM DEVICES
+TABLE 2 - PERSONAL INFORMATION WE MAY COLLECT THROUGH COOKIES AND OTHER TRACKING TECHNOLOGY
+
+
+1. HOW WE COLLECT AND USE INFORMATION.
+ 
+
+We collect personal information from you, third parties, Apps, and certain Robots that are registered with us to operate, maintain, and provide the features and functionality of the Service, to process and ship orders, to provide customer service, to communicate directly with you, to monitor and improve our Service, and to help us develop new products and services.
+
+The categories of information we collect are as follows:  
+ 
+
+Information you provide 
+
+
+
+We collect and store personal information such as your name, email address, user name and password, shipping address, billing information, and phone number when you register for an iRobot account, shop on-line, sign up for offers, communicate with us or otherwise use our Service. Directly identifiable personal information (such as full name and email address) is stored separately from de-identified Robot data (described below), with access restricted to need-to-know.
+If you register your Robot on-line or through mail or another registration means, we also collect information about your Robot, such as the Robot ID, serial number, or product code. We may also collect personal information when you call us, send us an email, or provide us with comments, chat messages, and opinions either on our Website or through our Service. You acknowledge that iRobot cannot guarantee the privacy of personal information you choose to post publicly on the internet, including on iRobot’s website or social media pages.
+ 
+
+Information we receive from third parties. 
+
+ 
+
+If you log in to our Website or Apps through a third-party social network or authentication service, these services will authenticate your identity and may share your personal information with us (such as your name, email address, and profile information). Similarly, we may receive certain personal information if you interact with our accounts on a social network, such as by “Liking” or “Following.” The data we receive from these third-party services is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Service.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, to process and ship orders, to provide customer service and to communicate directly with you, to monitor and improve our Service, and to help us develop new products and services.
+ 
+
+Information We Collect from Registered Robots Equipped with Smart Technology.
+
+ 
+
+Some of our Robots are equipped with smart technology which allows the Robots to transmit data wirelessly to the Service. Robot data is stored in a de-identified state (separated from identifiable information).
+
+ 
+
+Robot and App usage data. When you register your Robot with the iRobot App, we collect information about the Robot, such as a Robot name and device number, and information about the Robot and/or App usage, such as battery life and health.
+Robot environment information. Certain Robot models are equipped to collect information about the environment in which the Robot is deployed. For example, the Robot may collect information about the level of dirt detection, the Wi-Fi signal strength in each location, and information about the robot's movement throughout the environment to create a location "map" of the Robot’s domain and the existence and type of objects (chair, desk, fridge etc.) or obstacles encountered. We will store the name you give your robot, as well as any “room names”, “zone names”, or other “custom” names you assign to the map created of the robot's domain.
+App information. Through the iRobot App, you may opt-in to connect your iRobot account with iRobot smart home partners. Doing so will allow iRobot to scan your device for smart home apps in order to suggest smart home connections. iRobot will not collect this information unless you opt-in, and you may opt-out at any time through the iRobot App. Should you choose to opt-in, App information, meaning the names of smart home partner apps you have downloaded, will be stored in a deidentified manner.
+iRobot Beta Programme. You may opt-in to the iRobot Beta Programme made available within the App, which enables additional experimental Robot and/or App functionality. Certain features require additional data collection in order to support that particular feature. Each feature in the Beta Programme requires your opt-in permission to enable that functionality. Any personal information required to support a Beta feature will be disclosed in the Beta Programme section within the App at the time that the new Beta feature is released. The information required to support that Beta feature is not collected or used as part of the iRobot Beta Programme unless you choose to participate. Any information collected under this programme is subject to the same or functionally similar physical, administrative, and technological safeguards as other information collected under normal Robot use.
+ 
+
+Table 1 sets out more detailed information about the categories of personal information we may collect from you and your devices, and how we may use that information.
+
+  
+
+TABLE 1  PERSONAL INFORMATION WE MAY COLLECT FROM DEVICES   
+
+Category of Personal Information
+How We Use It	Legal Basis for processing
+[Network activity information] Robot and App usage data. Information about how you use your Robot and the product Apps, such as the battery life and health, number of missions, device identifier and location mapping, App usage, feature usage, in-App transactions.
+We use this information to process and ship orders.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service and Robots.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to provide customer service, including dealing with any enquiries or complaints.	The processing is necessary for our legitimate interests, namely administering the Service, for marketing purposes and communicating with users.
+We use this information to process returns or repairs, and to diagnose and fix technology problems.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to communicate directly with you, such as to send you information about your orders, product sales, special offers, and new site features, in each case in accordance with your preferences.	The processing is necessary for our legitimate interests, namely administering the Service, for marketing purposes and communicating with users.
+We use this information to tailor our Service and to develop new products and features available through our Service.	The processing is necessary for our legitimate interests, namely to tailor our Service to the user, and to develop new products and features on the Service.
+[Robot usage information: subscription services] which may include cleaning times/durations, bin empty events, bag replacements, tank refills, pad changes, and mission events.	We use this information to inform when to automatically ship filters, side brushes, bags and other accessories associated with subscribed services.  	The processing is necessary for the performance of a contract between you and us. 
+[Personal identifiers] Identification information, such as your national identity card or other proof of identity.	We may use this information to issue invoices for certain tax or legally required documents as needed.  	The processing is necessary to comply with a legal obligation to which we are subject. 
+We may request this information for account validation purposes when fulfilling your rights under applicable law, for example, if you request a portable copy of your personal information. 	The processing is necessary to comply with a legal obligation to which we are subject.
+[California Customer Records (Cal. Civ. Code §1798.80(e))] Customer Records, such as contact information and payment information.
+We use this information to facilitate transactions and provide you with the Service.	The processing is necessary for the performance of a contract with you.
+We use this information to provide customer support.
+The processing is necessary for our legitimate interests, namely administering the Service. 
+We use this information to detect and prevent fraud.
+The processing is necessary for our legitimate interests, namely the detection and prevention of fraud.
+[Protected classifications] Demographic information, such as your age, date of birth and gender.
+We may collect this information in optional surveys in order to develop new products and features available through our Service or otherwise improve our Service.
+The processing is necessary for our legitimate interests, namely developing and improving our Service and to inform our product development.
+We may collect this information in optional surveys in order to determine products and services that may be of interest to you for marketing purposes.
+The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+[Commercial information] Purchase and transaction information such as products purchased. If you register your device with us, we will also collect information about your Robot such as Robot ID, serial number, or product code.
+We use this information to process and ship orders.
+The processing is necessary for the performance of a contract between you and us.
+We use this information to provide customer service, including dealing with any enquiries or complaints.
+The processing is necessary for our legitimate interests, namely administering, developing, and improving our Service.
+We use this information to process returns or repairs.
+The processing is necessary for the performance of a contract between you and us.
+We use this information to determine products and services that may be of interest to you and to inform our product development.
+The processing is necessary for our legitimate interests, namely informing our direct marketing and product development.
+[Commercial information] Payment and billing information, such as your credit or debit card information, your billing address and purchase history.
+We use this information to process and ship orders.
+The processing is necessary for the performance of a contract between you and us.
+We use this information to detect and prevent fraud.
+The processing is necessary for our legitimate interests, namely the detection and prevention of fraud.
+[Geolocation] Approximate location such as the time zone in which your Robot is located. We will not collect or track your precise location, including GPS co-ordinates, without your permission. If this information is ever required for a given feature, you will be able to opt in and out via the iRobot App.
+We may use this information to ensure that the content on our Service is relevant to you, to provide new location -based features, and to help us provide customer service, including processing returns or repairs.
+The processing is necessary for our legitimate interest, namely to tailor our Service to the user and to improve our Service generally.
+[Inferences] Consumer behaviour such as products purchased, motivation for purchase, and other purchasing behaviour and preferences.
+We use this information to develop new products and features available through our Service or otherwise improve our Service.
+The processing is necessary for our legitimate interests, namely developing and improving our Service and to inform our product development.
+We use this information to determine products and services that may be of interest to you for marketing purposes.
+The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+[Other Personal Information] Demographic and lifestyle information, such as your leisure and other interests, number of children and number of pets, information about your home environment, and salary or other income information.
+We may collect this information in optional user surveys in order to develop new products and features available through our Service or otherwise improve our Service.	The processing is necessary for our legitimate interests, namely developing and improving our Service and to inform our product development
+We may collect this information in optional user surveys in order to determine products and services that may be of interest to you for marketing purposes.	The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+[Other Personal Information] Comments, chat and opinions that you provide to us when you contact us directly, such as the content of any text messages or emails you send to us, or phone calls.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We use this information to provide customer service, including dealing with any enquiries or complaints.	The processing is necessary for our legitimate interests, namely communicating with users and addressing users' comments and complaints.
+We use this information in connection with processing returns or repairs.	The processing is necessary for the performance of a contract between you and us.
+We use this information to develop new products and features available through our Service or otherwise improve our Service.	The processing is necessary for our legitimate interests, namely developing and improving our Service and to inform our product development.
+We use this information to determine products and services that may be of interest to you for marketing purposes.	The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+[Other Personal Information] Information received from third parties, such as social networks. If you connect a social network to our Service, or interact with our Service through a social network, we may receive information from the social network such as your name, profile information, and any other information you permit the social network to share with third parties. The data we receive is dependent on your privacy settings with the social network.
+We use this information to allow you to log in to the Service and to tailor how the Service is presented to you.
+The processing is necessary for our legitimate interest, namely to tailor our Service to the user.
+We use this information to communicate with you and to respond to your enquiries.
+The processing is necessary for our legitimate interest, namely to communicate with users.
+[Other Personal Information] Preferences set for notifications, marketing communications, how our Website or Apps are displayed and how you use the Service.
+We use this information to display our Service to you in accordance with your preferences.
+The processing is necessary for the performance of a contract between you and us.
+We use this information to provide only the notifications and to send only the marketing communications that you have agreed to receive.
+The processing is necessary for compliance with a legal obligation to which we are subject.
+[Other Personal Information] Knowledge of the apps on Your Phone.
+If you opt in, we may collect the names and app IDs of the Smart Home apps on your phone.
+ 
+We use this information to surface personalised recommendations for smart home integrations and voice automations, and to prioritise future automation partners.
+The lawful basis of processing is consent. The processing is necessary to tailor the Service to the user, and to develop new products and features.
+[Other Personal Information] Device Information. If you opt in to certain features, we may collect device data, such as MAC address, device type, device name, identifier, serial number, product code, network bandwidth usage, and device location within and near the home. 
+We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+The processing is necessary for the performance of a contract between you and us.
+We use this information to develop new products and features available through our Service or otherwise improve our Service.	This processing is necessary for our legitimate interests, namely new product and feature and improving the Service.
+We use this information to determine products and services that may be of interest to you and to inform our product development.
+This processing is necessary for our legitimate interests, namely new product and feature development and more personalised Services.
+[Other Personal Information] Robot customisation settings and preferences, such as robot name, room names, zone names, and scheduled start/stop times.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to tailor our Service and to develop new products and features available through our Service.
+The processing is necessary for our legitimate interests, namely to tailor our Service to the user, and to develop new products and features on the Service.
+We use this information to provide certain features and functionalities of the device.
+The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to determine products and services that may be of interest to you. 	The processing is necessary for our legitimate interests, namely to inform our direct marketing. 
+ [Other Personal Information] Robot environment information. Information about the spaces where you use your Robot, such as floor plans, keep out zones and clean zones, types of objects (detected using the camera on your Robot) along with a corresponding confidence factor for that object and its location, the location and confidence factor of Wi-Fi devices connected to your local network, and Wi-Fi heat maps.
+We use this information to diagnose and fix technological problems.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+We use this information to tailor our Service, in particular by improving the quality of the map that is generated and used by your Robot to allow it to operate effectively, and to develop new products and features available through our Service.
+The processing is necessary for our legitimate interests, namely to tailor our Service to the user, and to develop new products and features. 
+We use this information to develop new products and features available through our Service.
+The processing is necessary for our legitimate interests, namely developing new products and features on the Service.
+We use this information to provide certain features and functionalities of the device.	The processing is necessary for the performance of a contract between you and us, and to take steps prior to entering into a contract between you and us.
+[Network activity information and others] Data collected as part of the iRobot Beta Programme. Information transmitted by your Robot may be collected and processed as part of the feature or functionality within the iRobot Beta Programme.
+
+We use this information to test new features and functionalities of the Service where you have agreed to take part in the iRobot Beta Programme. Specific information that is necessary for the Beta Programme will be disclosed at the time of opt in, and may change depending on the beta feature offered. 
+The processing is necessary for our legitimate interests, namely for developing and testing new features and functionalities of the Service. We will only collect data to support the Beta Programme when you opt in to the Beta Programme.  
+[Other Personal Information] Images from certain connected robots with camera-based navigation. If you opt in to image collection, we will collect images on your robot. These images will not be viewable by us unless and until you opt in both to image collection and to sharing each image with iRobot.
+We use this information to help the robot clean more effectively over time, to learn to detect and avoid obstacles, and to recognise furniture, appliances, and other features of the home to aid in more precise cleaning.
+The lawful basis of processing this data is consent. The processing is necessary in order to develop obstacle detection and avoidance technology, and to improve robot cleaning performance.
+[Other Personal Information] Live streamed video. If you opt-in, we may stream video to partner apps that you select through your device, or to the iRobot Home App. Live stream video is not stored.
+We do not use this information, as we do not collect or store it. We provide this as a service to you for home monitoring purposes.
+N/A. No data is collected or stored. However, the feature is fully opt-in/consent-based.
+
+Our Robots do not transmit this information unless you register your Robot on-line and connect to Wi-Fi or Bluetooth, or connect to the Internet via another method. It is possible to use our smart technology Robots without Wi-Fi or Bluetooth data transmission, simply by disconnecting your Wi-Fi or Bluetooth from the Robot or by never connecting it at all. You can also choose through your settings in the App to not have map data transmitted to us.
+
+
+Use of cookies and other technologies to collect information.  
+
+We and our third-party service providers may collect certain types of usage information when you visit our Website or use our Apps, read our emails, or otherwise engage with us. We use this information to enhance and personalise your user experience, carry out interest-based advertising and marketing, monitor and improve our Website and Service, and for other internal purposes. In some instances, we and our third-party service providers may combine this usage information with personal information. If we do combine any usage information with personal information, the combined information will be treated by us as personal information.
+
+We typically collect this information through a variety of tracking technologies, including cookies, web beacons, embedded scripts, location-identifying technologies, file information, and similar technology (collectively, “tracking technologies”). Table 2 sets out the categories of personal information we collect about you automatically and how we use that information. iRobot complies with applicable laws related to cookies and other tracking technologies.
+
+
+Cookies. 
+Cookies are text files that are placed on your computer or other mobile or hand-held device (such as smart phones or tablets) when you visit certain pages on the Internet. They are used to “remember” when your computer or device accesses a website.
+
+We use the following types of cookies:
+
+(i) Strictly necessary cookies. These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log in to areas of our Website and to add items into your shopping basket.
+
+(ii) Functionality cookies. These are used to recognise you when you return to our Website so that we can offer you a better shopping experience on this Website. For instance, this enables us to personalise our content for you, greet you by name, and remember your preferences (for example, your choice of language or region).
+
+ 
+
+(iii) Analytical/performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+
+ 
+
+(iv) Targeting cookies. These cookies enable us to collect information that we can use to make our Website and the advertising displayed on it, and the marketing messages we send to you more relevant to your interests. We may also share this information with third parties who provide a service to us for this purpose.
+
+ 
+
+Google Analytics and advertising.
+
+We may also utilise certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimise, and display ads based on your past visits to the Website and Apps. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences, or by visiting NAI’s online resources at https://optout.networkadvertising.org.
+
+Please be aware that advertisers and other third parties may use their own cookie tags when you click on an advertisement or link on our website. These third parties are responsible for setting out their own cookie and privacy policies.
+
+ 
+
+Some jurisdictions require prior, opt-in consent before non-essential cookies may load. We comply with applicable regulations, and allow all website visitors to opt in or out of cookies and other trackers from within our cookie consent banner settings. For all cookie tracking described in this section, including Google Analytics, iRobot complies fully with your opt-in or opt-out preferences managed via the cookie banner that appears when you first visit our Website. If you would like to reset your preferences via the banner, you may do so by clearing your cookies and relaunching our Website. Furthermore, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether To accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies; however, doing so may negatively impact your experience using the Service, as some features and services on our Service may not work properly. You may also set your email options to prevent automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it.
+
+ 
+
+These settings will typically be found in the “options” or “preferences” menu of your browser. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+
+ 
+
+To opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:
+
+-Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (https://optout.aboutads.info/) and mobile application-based ” AppChoices” download page (https://youradchoices.com/appchoices)
+
+-European Interactive Digital Advertising Alliance (EDAA)’s consumer opt-out page (https://youronlinechoices.eu)
+
+-Network Advertising Initiative(NAI)’s self-regulatory opt-out page (https://optout.networkadvertising.org ).
+
+ 
+
+Please note that some advertising opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers, or delete the opt-out cookies, you may need to perform the opt-out task again.
+
+ 
+
+Although we do our best to honour the privacy preferences of our users, we are unable to respond to Do Not Track signals set by your browser at this time.
+
+ 
+
+For mobile users, you have controls in your device Operating System that enable you to choose whether to allow cookies or share your advertising ID with companies like iRobot or our advertising service providers. To block the IDFA on your iOS mobile device, you should follow this path: Settings > General > About > Advertising and then turn on ‘Limit Ad Tracking’. To block Android ID on your Android device, you should follow this path: Google Settings > Ads and then turn on ‘Opt Out of Ads Personalisation’.
+
+  
+
+Return to Top
+
+ 
+
+TABLE 2 - PERSONAL INFORMATION WE MAY COLLECT FROM COOKIES AND OTHER TRACKING TECHNOLOGY
+
+Category of personal information
+How we use it	Legal Basis for processing
+[Network activity information] Information about how you access and use the Service.  For example, the website from which you came and the website to which you are going when you leave our website, how frequently you access the Service, the time you access our Service and how long you use it for, the approximate location that you access the Service from, whether you access the Service from multiple devices, the links you click when browsing our Service or when you receive communications from us, and other actions you take on the Service.
+We use this information to present our Service to you on your device.	The processing is necessary for the performance of a contract between you and us.
+We use this information to tailor how our Service is presented to you.	The processing is necessary for our legitimate interests, namely to tailor our Service to the user.
+We use this information to determine products and services that may be of interest to you for marketing purposes.	The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+We use this information to monitor and improve our Service and business, including diagnosing and fixing technology problems and developing new products and services.	The processing is necessary for our legitimate interests, namely to monitor and resolve issues with our Service and to improve our Service generally.
+[Network activity information] Information about your device. We also collect information about the computer, tablet, smart phone or other electronic device you use to connect to our Service. This information can include details about the type of device, model and manufacturer, unique device identifying numbers (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, mobile device operating system brand and model and phone number, browsers and applications connected to our Service through the device, your Internet service provider, your IP address and your device’s telephone number (if it has one).
+We use this information to present our Service to you on your device.	The processing is necessary for the performance of a contract between you and us.
+We use this information to tailor how our Service is presented to you.	The processing is necessary for our legitimate interests, namely to tailor our Service to the user.
+We use this information to determine products and services that may be of interest to you for marketing purposes.	The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+We use this information to monitor and improve our Service and business, including diagnosing and fixing technology problems and developing new products and services.	The processing is necessary for our legitimate interests, namely to monitor and resolve issues with our Service and to improve our Service generally.
+
+2.  SHARING PERSONAL INFORMATION WITH THIRD PARTIES 
+
+We may share your personal information in the instances described below.  For further information on your choices regarding your information, see the "Your Choices Regarding Your Information" section. 
+Group companies. Other companies owned by or under common ownership as iRobot, which also includes our subsidiaries (i.e. any organisation we own or control) or our ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy;
+Service providers. Vendors, affiliates, and other service providers that perform services on our behalf, solely in order to carry out their work for us, which may include identifying and serving targeted advertisements, providing e-commerce services, content or service fulfilment, billing, website operation, payment processing and authorisation, customer service, fraud prevention, web hosting, data storage, or providing analytics services.
+Third parties at your request. iRobot permits third parties to develop apps and tools that interact with our Robots and Service, including, for example, Amazon Alexa and Google Assistant. If you choose to integrate a third-party app or service with our Robots or Service, we will permit the third party to collect information from your Robot and App necessary to power the integration. Please note that iRobot does not control the data collection and use practices of these third parties. You should carefully review the third party’s privacy policy and other documents before connecting your Robot or the Apps to the third-party service. You may opt in or out of a third-party app or service integration at any time. After opting out, information transfers to that third-party will cease unless and until you opt-in again.
+Purchasers and third parties in connection with a business transaction. Other parties in connection with any company transaction, such as a merger, sale of all or a portion of company assets or shares, reorganisation, financing, change of control or acquisition of all or a portion of our business by another company or third party, or in the event of bankruptcy or related or similar proceedings; and
+Law enforcement, regulators and other parties for legal reasons. Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process, or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of iRobot, its users, or the public as required or permitted by law, and (v) detect, prevent, or otherwise address criminal (including fraud or stalking), security, or technical issues.
+We may also share information with others in an aggregated and anonymous form that cannot reasonably identify you as an individual.
+
+Return to Top
+
+ 
+
+ 
+
+3. YOUR CHOICES REGARDING YOUR INFORMATION
+
+ 
+
+Access, correct, and update personal information. You may access, correct, remove, request deletion of, and update certain personal information that you have provided to us by clicking on “My Account” on our Website and App. Depending on your jurisdiction, you may be entitled to additional rights in relation to your personal information.
+
+ 
+
+FOR RESIDENTS OF CALIFORNIA
+
+FOR INDIVIDUALS IN THE EUROPEAN ECONOMIC AREA
+
+ 
+
+Marketing communications. You can control your communication preferences through the “My Account” page on our Website or App. You can also click the “unsubscribe” button on any promotional email communication we send you. Note that you may not be able to unsubscribe or opt out of non-promotional messages regarding your account, such as account verification, order confirmations, changes or updates to features of the Service, or technical and security notices.
+
+ 
+
+Device Collection You may be able to control or stop the collection of certain usage data from your registered Robot through the App, for example when you opt in or out of certain features. For features that require you to opt-in before collecting device or usage data, opting out of the feature will immediately halt any future data collection related to that feature. You may also control or stop the collection of usage data from your registered Robot by disconnecting your Robot from Wi-Fi or Bluetooth via the App. Please contact us at global.irobot.com if you have questions about disconnecting your Robot.
+
+ 
+
+On-line advertising. You may be able to avoid the collection of information through some cookies or other tracking technologies by actively managing the settings on your browser or mobile device. Please refer to the “Use of Cookies and Other Technologies to Collect Information” section to learn about disabling or blocking cookies and tracking technologies.
+
+ 
+
+Return to Top
+
+
+4. LINKS TO THIRD PARTY WEBSITES
+
+The Service may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers, and affiliates and, within this Privacy Policy, links to websites of third-party organisations for information purposes. If you follow a link to any of these websites, please note that these websites have their own terms of use and privacy policies, and that we do not accept any responsibility or liability for their services or practices. Please check the individual terms and policies before you submit any information to those websites. Additionally, our Websites may include social media features such as Facebook, Twitter, and Pinterest buttons (such as “Like,” “Tweet”, or “Pin”). Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our Privacy Policy. Please review your privacy settings on the applicable social media sites. Depending on your cookie/tracking settings, these social media sites may automatically record information about your browsing behaviour every time you visit a site that has a social media button, regardless of whether you click on the button
+ 
+
+Return to Top
+
+
+5.  SECURITY AND STORAGE INFORMATION
+
+Security.  iRobot prioritises the security of your information and uses physical, administrative, and technological safeguards to help to preserve the integrity and security of all information we collect, including what we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any of your personal information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised, in accordance with any applicable laws and regulations. If you become aware of any loss, theft, or unauthorised use of your password, please contact us at global.irobot.com or by phone at +1-800-727-9077.
+ 
+
+Transfer and storage.  iRobot may process your personal information outside the country you are in, including in the United States. Please be advised that United States law, or the laws of any other jurisdiction where we or our service providers process your personal information, may not offer the same privacy protections as the law of your jurisdiction.
+
+ 
+
+Data Retention. iRobot will retain personal information for as long as it is necessary for the purpose(s) for which it was obtained. The criteria used to determine our retention periods include: (i) whether we have a current or ongoing relationship with a user and are actively providing the Service; (ii) whether the personal information has been deidentified; (iii) whether there is a legal or compliance obligation to which we are subject; or (iv) whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, or regulatory investigations). You may contact us at global.irobot.com, through the iRobot App, or by logging into your account on our Website to request your personal information be deleted from our systems. We reserve the right to anonymise your personal data, including information about Robot and Service usage, and to retain anonymised information for our own records and for product and feature development purposes. Anonymised information cannot be associated with you as an identifiable individual. 
+
+ 
+
+If you wish to enquire further about the safeguards we use, please contact us using the details set out in this Privacy Policy.
+
+ 
+
+Return to Top
+
+
+
+6. CHILDREN’S PRIVACY
+
+The Service, Robots, and App are not directed to persons under 16 and we do not intentionally collect or maintain information from persons under 16. If you become aware that personal information about a person under 16 has been provided to us, please immediately contact us using the details below.
+
+Return to Top
+
+ 
+
+7. UPDATES TO THIS POLICY
+
+We reserve the right to modify this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will change the “Last Revision” date and will post the updated Privacy Policy on this page.
+
+ 
+
+Return to Top
+
+
+8. CONTACTING US
+
+If you have questions or comments about this Policy or our privacy practices, please contact us at global.irobot.com. 
+ 
+
+Return to Top
+
+ 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+ 
+
+ 
+FOR RESIDENTS OF CALIFORNIA
+
+This California Privacy Notice (“California Notice”) applies to California residents whose personal information is processed by iRobot pursuant to the California Consumer Privacy Act (“CCPA”) or other California privacy laws described below. The California Notice describes how we protect the personal information we process and control relating to California residents, and rights California residents may have in relation to their personal information. For the purposes of this California Notice, “personal information” has the meaning provided by the CCPA and does not include information that is publicly available, that is deidentified or aggregated such that it is not capable of being associated with you, or that is excluded from the CCPA’s scope, such as personal information covered by certain sector-specific US privacy laws, such as HIPAA, the FCRA, GLBA, or the Driver's Privacy Protection Act of 1994.
+
+Collection and use of personal information. We collect personal information from and about you as described in section 1 above. To learn more about the categories of personal information we have collected in the last 12 months and how we use this information, please refer to Table 1 (PERSONAL INFORMATION WE MAY COLLECT FROM DEVICES) and Table 2 (PERSONAL INFORMATION WE MAY COLLECT FROM COOKIES AND OTHER TRACKING TECHNOLOGY).
+
+Disclosure of personal information. We share personal information with service providers (as defined in the CCPA), and with third parties for business purposes, in a manner that does not constitute a “sale” (as defined in the CCPA (for example, at the direction of the consumer). To learn more about how we disclose data to third parties, please refer to “Sharing Personal Information with Third Parties”.
+We allow certain third-party advertising partners to collect information about the users of our Service for the purposes of serving ads that are more relevant, for ad campaign measurement and analytics, and for fraud detection and reporting. All cookies that are not strictly necessary (including third-party) require prior, opt-in consent from California consumers, are loaded per the consumer’s instructions and preferences, and do not involve “sales” of personal information. To learn more about online advertising and how you may be able to control some of this activity, please refer to “Third-Party Tracking and Online Advertising” .
+
+ 
+
+Your California Rights and Choices. As a California resident, you may be able to exercise the following rights:
+
+The Right to Know any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity:
+The specific pieces of personal information we have collected about you;
+The categories of personal information we have collected about you;
+The categories of sources of the personal information;
+The categories of personal information that we have disclosed to third parties for a business purpose, and the categories of recipients to whom this information was disclosed;
+The categories of personal information we have sold and the categories of third parties to whom the information was sold; and
+The business or commercial purposes for collecting or selling the personal information.
+The Right to Request Deletion of personal information we have collected from you, subject to certain exceptions.
+The Right to Opt Out of Personal Information Sales to third parties now or in the future. iRobot does not sell personal information.
+ 
+
+You also have the right to be free of discrimination for exercising these rights. However, please note that if the exercise of these rights may limit our ability to process personal information. For example if you submit a deletion request, we may no longer be able to provide you with our products and services or engage with you in the same manner.
+
+ 
+
+To submit your California Consumer Rights Requests. You may submit a request to exercise your California Consumer Rights through one of the mechanisms described below. We will need to verify your identity before processing your request, which may require us to request additional personal information from you or require you to log into your account, if you have one. In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity or locate your information in our systems, or as permitted by law.
+
+ 
+
+To exercise your California Consumer Rights, please submit a request by contacting us using the information provided in the "Contacting Us" section above. You can view and request deletion of your account information by following the instructions on our Customer Care website.
+
+ 
+
+Do Not Sell My Personal Information. iRobot does not sell personal information.
+
+ 
+
+California’s “Shine the Light” Law. California's "Shine the Light" law (Civil Code Section §1798.83) provides certain rights to California residents that have an established business relationship with us with regard to the disclosure of certain types of personal information to third parties for their direct marketing purposes. iRobot does not disclose personal information to third parties for their direct marketing purposes, unless the customer first affirmatively agrees to that disclosure. Return to “Your Choices Regarding Your Information”.
+
+
+
+
+Return to Top
+
+ 
+
+FOR INDIVIDUALS IN THE EUROPEAN ECONOMIC AREA, UK OR SWITZERLAND
+
+Data subject rights. If you are an individual located in the European Economic Area ("EEA"), UK or Switzerland, you have the following rights in relation to your personal information: (i) the right to be informed about how your personal information is being used;
+ 
+
+(ii) the right to access the personal information we hold about you and, in certain circumstances, to transfer the personal data you have provided to us to another controller in a structured, commonly used, machine-readable format;
+
+ 
+
+(iii) the right to request the correction of inaccurate or incomplete personal data we hold about you without undue delay;
+
+ 
+
+(iv) the right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed, or where consent has been withdrawn (when consent is used as a lawful basis of data processing);
+
+ 
+
+(v) the right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information; and
+
+ 
+
+(vi) the right to object. You have the right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. There may be compelling reasons for continuing to process your personal information, and we will assess and inform you if that is the case. You can object to marketing activities for any reason.
+
+ 
+
+(vii) You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available at https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+
+ 
+
+To otherwise exercise your rights, or if you have any questions relating to your rights, please contact us using the details set out in the “"Contacting Us"; section. You can view and request deletion of your account information by following the instructions on our Customer Care website.
+
+ 
+
+Onward Transfers (Transfers to Third Parties). iRobot may transfer personal information to certain third parties (as described in this Privacy Policy). Where we transfer personal information to a third party, we will take reasonable and appropriate steps to ensure that the third party processes personal information for limited and specified purposes, and in a manner consistent with our legal obligations.
+
+ 
+
+We allow certain third-party advertising partners to collect information about the users of our Service for the purposes of serving ads that are more relevant, for ad campaign measurement and analytics, and for fraud detection and reporting. All cookies that are not strictly necessary (including third-party) require prior, opt-in consent from individuals in the EEA, UK, and Switzerland before loading. To learn more about online advertising and how you may be able to control some of this activity, please refer to “Third-Party Tracking and Online Advertising”

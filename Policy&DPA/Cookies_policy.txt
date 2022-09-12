@@ -1,0 +1,74 @@
+We use “cookies” and similar web technologies, including pixel tags or web beacons, (“Automated Collection Tools”) to support certain features of the TCL account and other websites and applications operated by us. Automated tools are pieces of code deployed on your device. The Automated Collection Tools allow the website to recognize your browser or device during your visit to the TCL website/application or when you return to the TCL website/application. We use the following types of automated tools:
+ 
+Category 1 - strictly necessary tools:
+ 
+We use a number of Automated Collection Tools which are essential to the operation of the TCL Materials and which enable services you have specifically asked for to be provided. These types of Automated Collection Tools let us:
+ 
+·   to record that you are logged into your account
+·   to record when you give consent to our use of Automated Collection Tools, when applicable;
+·   enable us to provide products and services to you and manage transactions, including enable the webistes or other TCL Materials to remember the goods that you add to your shopping cart or the information you provided in forms;
+·   display the product reviews that you submit to us;
+·   provide the necessary security your us of the TCL Materials requires, for example, to monitor traffic flow and visits in order to let us know of potential security threats (e.g., in case of unusually high or rapid traffic); and
+·   and help ensure the content of the TCL Materials you request load quickly.
+ 
+    Without these Automated Collection Tools, the services that you have asked for cannot be provided.
+ 
+We want you to understand these essential Automated Collection Tools, and why we use them, but your consent is not required for us to use them as we use these Automated Collection Tools only to provide you with services that you have requested.
+ 
+Category 2 - performance tools:
+ 
+These Automated Collection Tools collect information about how you use the TCL Materials. They allow us to understand:
+ 
+·   which device and/or website you come from;
+·   which of the TCL Materials and its functions you use most often so that we can use this information how to improve their functionality;
+·   your preferences to ensure that more relevant website / application content (including advertising content) is delivered to you; and
+·   if you get error messages.
+ 
+The information gathered is only used to improve how the TCL Materials work.
+ 
+In addition, the coding language the TCL website is written in uses Automated Collection Tools that are deleted after you close your browser session. There are deleted each time you close your browser. These tools do not store any information about a visitor once the browser is closed.
+ 
+Some of these Automated Collection Tools are provided by the following third parties:
+ 
+·   Google Analytics (for more information, please visit Google’s Privacy Policy and website) We use Google Analytics, which is a web analytics tool that helps us understand how users engage with the TCL Account or other TCL website / application. Google Analytics tracks your movement through our site (i.e. the pages you have seen and the links you have clicked on) and helps us measure how you interact with the content we provide. This information is used to compile reports and to help us improve the TCL Account or other TCL website / application. The reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics without affecting your use of our site. More information on opting out of Google Analytics across all websites you use can be found on the Google website at: https://tools.google.com/dlpage/gaoptout
+ 
+These automated tools expire after 13 months, unless you delete them before using your browser or phone settings.
+ 
+Category 3 - targeting or advertising tools:
+ 
+These Automated Collection Tools track your browsing habits so that we can show you advertising which we hope is relevant to your interests. We believe it is useful to show you advertisements that are tailored to your interests. These advertising tools use information about your web browsing activity to group you with other users who have similar interests and show you advertisements based upon those interests. Information about your browsing habits is passed by us to third party advertisers so that you are shown more tailored advertisements when you are online.
+ 
+Also, we use Automated Collection Tools to enable us and third-party partners that we work with to deliver advertisements or tailor marketing messages. For example we may use cookies to record what products and services you buy or show interest in and use third party services to enable relevant advertisements to be shown on our and other websites / applications based on that information
+ 
+These types of tools are also used to limit the number of times you see an advertisement as well as to help measure the effectiveness of advertising campaigns.
+ 
+To learn more about how behavioral advertising works, and your ability to opt out, visit the Network Advertising Initiative (NIA), the Digital Advertising Alliance (DAA), or Your Online Choices.
+ 
+Some of these Automated Collection Tools are provided by the following third parties:
+ 
+·   Facebook (for more information, please visit Facebook’s privacy policy and website) We use Facebook cookies to help us show ads and promote our products and services on Facebook or Facebook powered platforms to people who may be interested. You can opt out of Facebook cookies without affecting your use of our site. More information on opting out of Facebook cookies across all websites you use can be found on the Facebook website at: https://www.facebook.com/policies/cookies.
+ 
+·   Doubleclick by Google (for more information, please visit Google’s privacy policy and website) We use Doubleclick to help us display the ads, control how often an ad is shown to you, how long it is shown for and how often it will appear, and measure our ad performance. You can opt out of Doubleclick without affecting your use of our site. More information on opting out of Doubleclick across all websites you use can be found on its website at: https://policies.google.com/technologies/ads#toc-optout.
+ 
+These automated tools expire after 13 months, unless you delete them before using your browser or phone settings.
+ 
+How to manage Automated Collection Tools
+ 
+If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your device. You may also delete cookies as soon as you leave the TCL account or other TCL website / application. Although you are not required to accept cookies when you visit the TCL account, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of the TCL account or other TCL website / application.
+ 
+For example, the Help portion of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new Automated Collection Tools, and how to entirely disable Automated Collection Tools. With regards to some of the popular browsers you can find more information by clicking on the following relevant links: 
+Google Chrome;
+Microsoft Edge;
+Mozilla Firefox;
+Microsoft Internet Explorer;
+Opera and Apple Safari.
+ 
+Where required by law, we will present you with a cookie banner the first time you visit our website/application that explains what type of Automated Collection Tools we use and which asks your consent for some of the Automated Collection Tools we use.
+ 
+Personal Data collected through Automated Collection Tools
+ 
+We use the Personal Data collected through Automated Collection Tools for the purposes specified in our Privacy Policy [https://www.tcl.com/uk/en/legal/privacy-notice]. For those cookies where we ask for your consent to deploy them, we also rely on consent as the legal basis for processing Personal Data collected through those cookies.
+ 
+Changes to this Cookie Notice
+ 
+We may update this Cookie Notice from time to time. If there is any material change to this Cookie Notice, we will notify you either by posting a notice on our Website or by sending you an email notice or by other means permitted under applicable law.
